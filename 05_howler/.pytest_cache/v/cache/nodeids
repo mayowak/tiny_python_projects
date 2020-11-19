@@ -1,0 +1,7 @@
+[
+  "test.py::test_exists",
+  "test.py::test_file",
+  "test.py::test_text_outfile",
+  "test.py::test_text_stdout",
+  "test.py::test_usage"
+]
